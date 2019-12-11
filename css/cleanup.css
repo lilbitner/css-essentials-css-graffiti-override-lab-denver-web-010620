@@ -2,18 +2,24 @@
 title {
   background-color:white;
   margin: auto;
+  width: 20px;
 }
 body {
   background-color:white;
-  margin:auto;
+  margin: auto;
+  width: 20px;
 }
 img {
   background-color:white;
+  width: 20px;
 }
 head {
   background-color: white;
   margin: auto;
+  width: 20px;
 }
 #parent {
   background-color: white;
+  margin: auto;
+  width: 20px;
 }
